@@ -104,4 +104,15 @@
       "images/GPdI/GPdI_4.jpg"
     ]
   }
+   {
+    "id": "alltimecoffee",
+    "title": "Desain Stiker Kemasan All Time Coffee",
+    "category": "Printing",
+    "year": "2025",
+    "description": "Proyek desain kemasan stiker label ini dirancang untuk menghadirkan identitas visual yang segar, energik, dan penuh daya tarik. Dengan palet warna yang menonjolkan karakter pop color yang modern sekaligus playful, sehingga mampu menarik perhatian konsumen.",
+    "tags": ["Label", "Printing", "Branding"],
+    "cover": "images/alltimecoffee/alltimecoffee.jpg",
+    "slides": [
+    ]
+  },
 ]

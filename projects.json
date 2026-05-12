@@ -103,7 +103,7 @@
       "images/GPdI/GPdI_3.jpg",
       "images/GPdI/GPdI_4.jpg"
     ]
-  }
+  },
    {
     "id": "alltimecoffee",
     "title": "Desain Stiker Kemasan All Time Coffee",
@@ -114,5 +114,5 @@
     "cover": "images/alltimecoffee/alltimecoffee.jpg",
     "slides": [
     ]
-  },
+  }
 ]
